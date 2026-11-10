@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "role": "Военный истребитель — узкий вариант",
+    "reference": "assets/ships/references/01-fighter-narrow.png",
+    "uploaded_filename": "image(3).png",
+    "gaal_topdown": "assets/ships/source-gaal/topdown/GaalD_000.png",
+    "gaal_oblique": "assets/ships/source-gaal/oblique/2GaalD.png",
+    "sha256": "87c7363c8517bd8defc930a5ded75e490f0b11ba1a4a7049dbc64e6874f9f632",
+    "status": "direct-reference"
+  },
+  {
+    "id": 2,
+    "role": "Пассажирский лайнер",
+    "reference": "assets/ships/references/02-passenger-liner.png",
+    "uploaded_filename": "image(1).png",
+    "gaal_topdown": "assets/ships/source-gaal/topdown/GaalL_012.png",
+    "gaal_oblique": "assets/ships/source-gaal/oblique/2GaalL.png",
+    "sha256": "cbde38b1668eb6e84a51c6abef1cc85db627635aabe9c8d13bc678ad9954440b",
+    "status": "direct-reference"
+  },
+  {
+    "id": 3,
+    "role": "Пиратский корабль",
+    "reference": "assets/ships/references/03-pirate.png",
+    "uploaded_filename": "image(5).png",
+    "gaal_topdown": "assets/ships/source-gaal/topdown/GaalP_012.png",
+    "gaal_oblique": "assets/ships/source-gaal/oblique/2GaalP.png",
+    "sha256": "79863aa3e3b79d6313de709af869a6fcf792cfcf5818e43eab45d5851b77f138",
+    "status": "direct-reference"
+  },
+  {
+    "id": 4,
+    "role": "Дипломатический корабль / курьер",
+    "reference": "assets/ships/references/04-diplomat-courier.png",
+    "uploaded_filename": "image(2).png",
+    "gaal_topdown": "assets/ships/source-gaal/topdown/GaalR_002.png",
+    "gaal_oblique": "assets/ships/source-gaal/oblique/2GaalR.png",
+    "sha256": "03fed6d9b0c3659b2e099ed908f1b750234cb94c5acd70a73d030752e28da291",
+    "status": "direct-reference"
+  },
+  {
+    "id": 5,
+    "role": "Грузовой транспорт",
+    "reference": "assets/ships/references/05-cargo-transport.png",
+    "uploaded_filename": "image.png",
+    "gaal_topdown": "assets/ships/source-gaal/topdown/GaalT_007.png",
+    "gaal_oblique": "assets/ships/source-gaal/oblique/2GaalT.png",
+    "sha256": "8a89a7731ddac5e5d959b3616b2192bc811b6e6f398af7f26aef2d9f5eba3e46",
+    "status": "direct-reference"
+  },
+  {
+    "id": 6,
+    "role": "Военный истребитель — широкий вариант",
+    "reference": "assets/ships/references/06-fighter-wide.png",
+    "uploaded_filename": "image(4).png",
+    "gaal_topdown": "assets/ships/source-gaal/topdown/GaalW_000.png",
+    "gaal_oblique": "assets/ships/source-gaal/oblique/2GaalW.png",
+    "sha256": "aae1e9d4dd560e5d13675b080c6224953a80aea7661b2d48f0bd8c024dd669c4",
+    "status": "direct-reference"
+  }
+]
