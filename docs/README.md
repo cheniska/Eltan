@@ -14,7 +14,7 @@
 
 - Лор: [имена и планеты](lore/Names.md), [системы и незаселённые миры](lore/System_Empty_Planet_Names.md).
 - Сюжет: [сообщения и эпилоги](story/Endings.md).
-- Геймплей: [доставки и диалоги сборки маяка](gameplay/Beacon_Delivery_Quests.md), [интриги](gameplay/Intrigues.md), [исследования Фрагмента Махпеллы](gameplay/Orphan_Research.md), [условия и совместимость концовок](gameplay/Ending_Conditions.md).
+- Геймплей: [доставки и диалоги сборки маяка](gameplay/Beacon_Delivery_Quests.md), [названия оборудования по линейкам](gameplay/Equipment_Names.md), [интриги](gameplay/Intrigues.md), [исследования Фрагмента Махпеллы](gameplay/Orphan_Research.md), [условия и совместимость концовок](gameplay/Ending_Conditions.md).
 - Внешняя основа: [каталог ванильных концовок](Deti_Eltan_Vanilla_Endings.md), [предоставленный аутлайн](sources/ENDING_OUTLINE_PC_FINAL_SHUKLISSAN.md).
 - Визуальная навигация: [описание HTML-карт](ENDING_MAP_README.md), [компактная карта](ending-map.html), [большой граф](ending-map-full.html).
 - Художественные материалы: [правила корабельных дизайнов](ship-design.md).
