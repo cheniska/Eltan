@@ -110,25 +110,25 @@
 
 ## Оружие
 
-В моде есть 18 отдельных типов `COE_Weapon01`–`COE_Weapon18` с привязкой к `BaseWeapon` 1–18. Они не образуют восьмиуровневую линейку. Их русские значения `Name` в текущем `CFG/Rus/Lang.txt` уже состоят из знаков `?`; восстановленные русские названия здесь не выдуманы. Ниже приведены сохранившиеся английские названия.
+В моде есть 18 отдельных типов `COE_Weapon01`–`COE_Weapon18` с привязкой к `BaseWeapon` 1–18. Они не образуют восьмиуровневую линейку. Русские названия подобраны для мода на основе сохранившихся английских названий; это новые рабочие имена, а не восстановление утраченного исходного текста.
 
-| Ключ | BaseWeapon | Английское название в моде |
-|---|---:|---|
-| `COE_Weapon01` | 1 | Mining laser |
-| `COE_Weapon02` | 2 | Shrapnel cannon |
-| `COE_Weapon03` | 3 | Beam cutter |
-| `COE_Weapon04` | 4 | Volley launcher |
-| `COE_Weapon05` | 5 | Thermotron |
-| `COE_Weapon06` | 6 | Phase emitter |
-| `COE_Weapon07` | 7 | Stream blaster |
-| `COE_Weapon08` | 8 | Arc cutter |
-| `COE_Weapon09` | 9 | Resonance cannon |
-| `COE_Weapon10` | 10 | Atomic sight |
-| `COE_Weapon11` | 11 | Molecular crusher |
-| `COE_Weapon12` | 12 | Gravi rotor |
-| `COE_Weapon13` | 13 | Verdict cannon |
-| `COE_Weapon14` | 14 | Vortex beam |
-| `COE_Weapon15` | 15 | Torpedo volley |
-| `COE_Weapon16` | 16 | Esodriver |
-| `COE_Weapon17` | 17 | Capacitor discharger |
-| `COE_Weapon18` | 18 | Chronocutter |
+| Ключ | BaseWeapon | Русское название | Английское название |
+|---|---:|---|---|
+| `COE_Weapon01` | 1 | Пласторез | Mining laser |
+| `COE_Weapon02` | 2 | Осколочный венец | Shrapnel cannon |
+| `COE_Weapon03` | 3 | Линейный резак | Beam cutter |
+| `COE_Weapon04` | 4 | Кассетный метатель | Volley launcher |
+| `COE_Weapon05` | 5 | Термокопьё | Thermotron |
+| `COE_Weapon06` | 6 | Фазовый шип | Phase emitter |
+| `COE_Weapon07` | 7 | Потоковый излучатель | Stream blaster |
+| `COE_Weapon08` | 8 | Дуговой рассекатель | Arc cutter |
+| `COE_Weapon09` | 9 | Резонансный ударник | Resonance cannon |
+| `COE_Weapon10` | 10 | Атомный визир | Atomic sight |
+| `COE_Weapon11` | 11 | Молекулярный дробитель | Molecular crusher |
+| `COE_Weapon12` | 12 | Гравиротор | Gravi rotor |
+| `COE_Weapon13` | 13 | «Приговор» | Verdict cannon |
+| `COE_Weapon14` | 14 | Вихревой канал | Vortex beam |
+| `COE_Weapon15` | 15 | Торпедная гроздь | Torpedo volley |
+| `COE_Weapon16` | 16 | Эзодвигатель | Esodriver |
+| `COE_Weapon17` | 17 | Ёмкостный разрядник | Capacitor discharger |
+| `COE_Weapon18` | 18 | Хронорезак | Chronocutter |
